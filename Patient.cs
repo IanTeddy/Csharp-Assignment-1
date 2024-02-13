@@ -31,7 +31,7 @@ namespace Csharp_Assignment_1
             if(systolic < 120 && diastolic < 80) {
                 result = "NORMAL";
             } else if(systolic < 130 && diastolic < 80) {
-                result = "ELEVATED";
+                result = "ELEVATEDDDDD";
             } else if(systolic < 140 || diastolic < 90) {
                 result = "HIGH BLOOD PRESSURE (HYPERTENSION) STAGE 1";
             } else if(systolic > 180 || diastolic > 120) {
