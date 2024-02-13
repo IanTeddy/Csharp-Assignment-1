@@ -1,17 +1,12 @@
-﻿using System;
 namespace Csharp_Assignment_1
 {
-	public class Patient
+    internal class Patient
 	{
 		private string firstName;
-
 		private string lastName;
-		private Double weight;
-		private Double height;
+        private double weight;
+        private double hight;
 
-		public Patient()
-		{
-		}
 	}
 }
 
