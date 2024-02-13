@@ -12,10 +12,10 @@ namespace Csharp_Assignment_1
 		{
 		}
 
-        public double Height { get => height; set => height = value; }
-        public double Weight { get => weight; set => weight = value; }
-        public string LastName { get => lastName; set => lastName = value; }
         public string FirstName { get => firstName; set => firstName = value; }
+        public string LastName { get => lastName; set => lastName = value; }
+        public double Weight { get => weight; set => weight = value; }
+        public double Height { get => height; set => height = value; }
     }
 }
 
