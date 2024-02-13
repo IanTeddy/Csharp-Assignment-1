@@ -29,7 +29,7 @@ namespace Csharp_Assignment_1
             string result;
 
             if(systolic < 120 && diastolic < 80) {
-                result = "NORMALLLLLL";
+                result = "NORMAL";
             } else if(systolic < 130 && diastolic < 80) {
                 result = "ELEVATED";
             } else if(systolic < 140 || diastolic < 90) {
