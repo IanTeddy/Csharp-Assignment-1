@@ -1,0 +1,15 @@
+/Users/meihirata/ASP_NET_project/Csharp-Assignment-1/bin/Debug/net7.0/Csharp-Assignment_1
+/Users/meihirata/ASP_NET_project/Csharp-Assignment-1/bin/Debug/net7.0/Csharp-Assignment_1.deps.json
+/Users/meihirata/ASP_NET_project/Csharp-Assignment-1/bin/Debug/net7.0/Csharp-Assignment_1.runtimeconfig.json
+/Users/meihirata/ASP_NET_project/Csharp-Assignment-1/bin/Debug/net7.0/Csharp-Assignment_1.dll
+/Users/meihirata/ASP_NET_project/Csharp-Assignment-1/bin/Debug/net7.0/Csharp-Assignment_1.pdb
+/Users/meihirata/ASP_NET_project/Csharp-Assignment-1/obj/Debug/net7.0/Csharp-Assignment_1.csproj.AssemblyReference.cache
+/Users/meihirata/ASP_NET_project/Csharp-Assignment-1/obj/Debug/net7.0/Csharp-Assignment_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/meihirata/ASP_NET_project/Csharp-Assignment-1/obj/Debug/net7.0/Csharp-Assignment_1.AssemblyInfoInputs.cache
+/Users/meihirata/ASP_NET_project/Csharp-Assignment-1/obj/Debug/net7.0/Csharp-Assignment_1.AssemblyInfo.cs
+/Users/meihirata/ASP_NET_project/Csharp-Assignment-1/obj/Debug/net7.0/Csharp-Assignment_1.csproj.CoreCompileInputs.cache
+/Users/meihirata/ASP_NET_project/Csharp-Assignment-1/obj/Debug/net7.0/Csharp-Assignment_1.dll
+/Users/meihirata/ASP_NET_project/Csharp-Assignment-1/obj/Debug/net7.0/refint/Csharp-Assignment_1.dll
+/Users/meihirata/ASP_NET_project/Csharp-Assignment-1/obj/Debug/net7.0/Csharp-Assignment_1.pdb
+/Users/meihirata/ASP_NET_project/Csharp-Assignment-1/obj/Debug/net7.0/Csharp-Assignment_1.genruntimeconfig.cache
+/Users/meihirata/ASP_NET_project/Csharp-Assignment-1/obj/Debug/net7.0/ref/Csharp-Assignment_1.dll

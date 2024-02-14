@@ -48,10 +48,32 @@ namespace Csharp_Assignment_1
         public double CalculateBMI(double weight, double height) {
             // formula is BMI = kg/m x m
             double heighInMeter = height / 100;
-            return weight / heighInMeter * heighInMeter; 
+            return weight / (heighInMeter * heighInMeter);
         }
 
 
+        // a method to print patient info
+        public void PrintInfo(int systolic, int diastolic) {
+            Console.WriteLine($"Full Name: {firstName} {lastName} " +
+                $"\nWeight: {weight} " +
+                $"\nHight:{height}" +
+                $"\nBlood Pressuer: {CalBloodPressure(systolic, diastolic)}" +
+                $"\nBMI: {CalculateBMI(weight, height)}");
+
+            if(CalculateBMI(weight, height) >= 25.0) {
+                Console.WriteLine("Overweight");
+            } else if(CalculateBMI(weight, height) >= 18.5) {
+                Console.WriteLine("Normal (In the healthy range)");
+            } else {
+                Console.WriteLine("Underweight");
+            }
+
+        }
+
+        public static int CalculateAge(int year) {
+            int age = 2023 - year;
+            return age;
+        }
 
     }
 
