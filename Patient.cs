@@ -31,7 +31,7 @@ namespace Csharp_Assignment_1
             if(systolic < 120 && diastolic < 80) {
                 result = "NORMAL";
             } else if(systolic < 130 && diastolic < 80) {
-                result = "ELEVATEDDDDD";
+                result = "ELEVATED";
             } else if(systolic < 140 || diastolic < 90) {
                 result = "HIGH BLOOD PRESSURE (HYPERTENSION) STAGE 1";
             } else if(systolic > 180 || diastolic > 120) {
@@ -43,6 +43,15 @@ namespace Csharp_Assignment_1
             }
             return result;
         }
+
+        // a method to calculate BMI
+        public double CalculateBMI(double weight, double height) {
+            // formula is BMI = kg/m x m
+            double heighInMeter = height / 100;
+            return weight / heighInMeter * heighInMeter; 
+        }
+
+
 
     }
 
