@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/meihirata/ASP_NET_project/Csharp-Assignment-1/Csharp-Assignment_1.csproj": {}
+    "/Users/meihirata/Desktop/Csharp-Assignment-1/Csharp-Assignment_1.csproj": {}
   },
   "projects": {
-    "/Users/meihirata/ASP_NET_project/Csharp-Assignment-1/Csharp-Assignment_1.csproj": {
+    "/Users/meihirata/Desktop/Csharp-Assignment-1/Csharp-Assignment_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/meihirata/ASP_NET_project/Csharp-Assignment-1/Csharp-Assignment_1.csproj",
+        "projectUniqueName": "/Users/meihirata/Desktop/Csharp-Assignment-1/Csharp-Assignment_1.csproj",
         "projectName": "Csharp-Assignment_1",
-        "projectPath": "/Users/meihirata/ASP_NET_project/Csharp-Assignment-1/Csharp-Assignment_1.csproj",
+        "projectPath": "/Users/meihirata/Desktop/Csharp-Assignment-1/Csharp-Assignment_1.csproj",
         "packagesPath": "/Users/meihirata/.nuget/packages/",
-        "outputPath": "/Users/meihirata/ASP_NET_project/Csharp-Assignment-1/obj/",
+        "outputPath": "/Users/meihirata/Desktop/Csharp-Assignment-1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/meihirata/.nuget/NuGet/NuGet.Config"

@@ -28,7 +28,7 @@ class Program
         Console.Write("DIASTOLIC mm Hg: ");
         int diastolic = Convert.ToInt32(Console.ReadLine());
 
-
+        Console.WriteLine("\n");
         // create a Patient object
         Patient patient = new Patient(firstName, lastName, weight, height);
         // print out the output
